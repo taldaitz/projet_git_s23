@@ -11,6 +11,14 @@
         <h1>Super Site !</h1>
     </header>
 
+    <nav>
+        <ul>
+            <li>Accueil</li>
+            <li>Contact</li>
+            <li>A propos de</li>
+        </ul>
+    </nav>
+
     
     
 </body>
