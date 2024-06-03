@@ -1,2 +1,4 @@
 database_connect.config
 bin/
+*.scss
+*.sass
