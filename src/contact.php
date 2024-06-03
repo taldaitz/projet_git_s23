@@ -7,7 +7,7 @@
 </head>
 <body>
 
-    <form action="" method="post">
+    <form action="traitement.php" method="post">
 
         <input type="submit" value="OK">
 
