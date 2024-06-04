@@ -8,7 +8,7 @@
 <body>
 
     <header>
-        <h1>Super Site !</h1>
+        <h1>Titre de master</h1>
     </header>
 
     <nav>
