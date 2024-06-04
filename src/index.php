@@ -27,7 +27,9 @@
         </section>
     </main>
 
-    
+    <footer>
+        <a href="mailto:taldaitz@dawan.fr">Me contacter</a>
+    </footer>
     
 </body>
 </html>
