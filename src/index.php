@@ -19,6 +19,14 @@
         </ul>
     </nav>
 
+    <main>
+        <section id="articles">
+            <article></article>
+            <article></article>
+            <article></article>
+        </section>
+    </main>
+
     
     
 </body>
