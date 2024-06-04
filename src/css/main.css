@@ -2,6 +2,10 @@
 color: blue;
 }
 
-red {
+.red {
     color: red;
+}
+
+.yellow {
+  color: yellow;
 }
