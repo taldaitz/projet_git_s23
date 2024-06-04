@@ -19,6 +19,10 @@
         </ul>
     </nav>
 
+    <footer>
+        <a href="mailto:taldaitz@dawan.fr">Me contacter</a>
+    </footer>
+
     
     
 </body>
