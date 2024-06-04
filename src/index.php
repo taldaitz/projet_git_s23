@@ -8,7 +8,7 @@
 <body>
 
     <header>
-        <h1>Super Site !</h1>
+        <h1>Site de Formation</h1>
     </header>
 
     <nav>
